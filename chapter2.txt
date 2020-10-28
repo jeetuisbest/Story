@@ -1,1 +1,2 @@
 i am editing my second chapter to merge with main
+i again modified this to merge with main in GIT GUI(graphic user interface)
